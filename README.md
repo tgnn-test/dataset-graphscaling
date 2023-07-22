@@ -1,5 +1,12 @@
 # dataset-graphscaling
 
+## Structure
+`graph-generation`: TODO
+
+`graph-upscaling`: 
+
+## Use the Data
+
 All graphs are stored as a pickled list of networkx graphs.
 
 You can load graphs using the following code:
