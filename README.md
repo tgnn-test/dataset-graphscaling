@@ -1,5 +1,7 @@
 # dataset-graphscaling
 
+Interactive verion [here](https://tgnn-test.github.io/)
+
 ## Structure
 `graph-generation`: TODO
 
