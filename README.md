@@ -5,7 +5,7 @@ Interactive version [here](https://tgnn-test.github.io/)
 ## Structure
 `graph-generation`:
 * generated graphs
-* divided per method:
+* divided by method:
   * Netgan
   * BiGG
   * GraphRNN
