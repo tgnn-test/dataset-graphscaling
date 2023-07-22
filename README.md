@@ -1,11 +1,26 @@
 # dataset-graphscaling
 
-Interactive verion [here](https://tgnn-test.github.io/)
+Interactive version [here](https://tgnn-test.github.io/)
 
 ## Structure
-`graph-generation`: TODO
+`graph-generation`:
+* generated graphs
+* divided per method:
+  * Netgan
+  * BiGG
+  * GraphRNN
+  * GSM
+  * GraphGDP
 
-`graph-upscaling`: 
+`graph-upscaling`:
+* up-scaled graphs
+* divided by method and scale:
+  * Kronecker:
+    * scales 2-256
+  * Gscaler:
+    * scales 2-256
+  * EvoGraph:
+    * scales 2-256
 
 ## Use the Data
 
