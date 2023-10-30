@@ -40,3 +40,19 @@ with open(filename, 'rb') as f:
 ```bash
 <class 'networkx.classes.graph.Graph'>
 ```
+
+## Cite
+
+```bash
+@inproceedings{Helm2310:Synthesizing,
+  author = {Helm, Max and Carle, Georg},
+  title = {{Synthesizing and Scaling WAN Topologies using Permutation-invariant Graph Generative Models}},
+  booktitle = {19th International Conference on Network and Service Management (CNSM 2023)},
+  address = {Niagara Falls, Canada},
+  pages = 6,
+  days = 30,
+  month = oct,
+  year = 2023,
+  month_numeric = 10
+}
+```
